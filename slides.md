@@ -1,7 +1,7 @@
 
-# TALK_NAME
+# CPAN Testers Has An API
 
-<http://preaction.github.io/REPO_NAME/>
+<http://preaction.github.io/CPAN-Testers-Has-An-API/>
 
 <div style="width: 40%; float: left">
 
@@ -18,9 +18,9 @@ by [Doug Bell](http://preaction.me)
 </div>
 <div style="width: 40%; float: left">
 
-[<i class="fa fa-file-text-o"></i> Notes](https://github.com/preaction/REPO_NAME/blob/master/NOTES.md)  
+[<i class="fa fa-file-text-o"></i> Notes](https://github.com/preaction/CPAN-Testers-Has-An-API/blob/master/NOTES.md)  
 <small> </small>  
-[Source on <i class="fa fa-github"></i>](https://github.com/preaction/REPO_NAME/)  
+[Source on <i class="fa fa-github"></i>](https://github.com/preaction/CPAN-Testers-Has-An-API/)  
 
 [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode)  
 
@@ -32,21 +32,119 @@ For full-screen, press `F`
 
 ------
 
-Use ------ between columns
-
-Use --- between rows
-
-Use Note: to introduce speaker notes
-
-------
-
-# Questions?
+# Hi
 
 ---
 
+# I'm Doug
+
+<img src="http://preaction.me/images/avatar-small.jpg" style="display: inline-block; max-width: 100%"/>..
+(Preaction)
+
+---
+
+# CPAN Testers
+
+---
+
+# 2015
+
+---
+
+# Maintainance
+
+---
+
+# Modernization
+
+------
+
+# API
+
+---
+
+# api.cpantesters.org
+
+---
+
+# JSON
+
+---
+
+# OpenAPI
+
+---
+
+Pseudo-
+
+# Live Demo!
+
+<http://api.cpantesters.org/docs/?url=/v3>
+
+------
+
+# Use this API
+
+---
+
+# Dashboard
+
+---
+
+Pseudo-
+
+# Live demo!
+
+<http://beta.cpantesters.org/chart.html>
+
+---
+
+# Technologies
+
+---
+
+# Vue.js
+
+---
+
+# HighCharts
+
+------
+
+# CPAN Testers Has An API
+
+---
+
+# Make Neat Stuff
+
+---
+
+# Make the API Better!
+
+<http://github.com/cpan-testers/cpantesters-api/>
+
+---
+
+# Make the Charts Better!
+
+<http://github.com/cpan-testers/cpantesters-web/>
+
+------
+
+# Thanks
+
+Breno de Oliviera
+Joel Berger
+
+---
+
+# Perl Toolchain Summit Sponsors
+
+------
+
 # Thank You
 
-<http://preaction.github.io/REPO_NAME/>
+<http://preaction.github.io/CPAN-Testers-Has-An-API/>
 
 <div style="width: 40%; float: left">
 
@@ -63,9 +161,9 @@ by [Doug Bell](http://preaction.me)
 </div>
 <div style="width: 40%; float: left">
 
-[<i class="fa fa-file-text-o"></i> Notes](https://github.com/preaction/REPO_NAME/blob/master/NOTES.md)  
+[<i class="fa fa-file-text-o"></i> Notes](https://github.com/preaction/CPAN-Testers-Has-An-API/blob/master/NOTES.md)  
 <small> </small>  
-[Source on <i class="fa fa-github"></i>](https://github.com/preaction/REPO_NAME/)  
+[Source on <i class="fa fa-github"></i>](https://github.com/preaction/CPAN-Testers-Has-An-API/)  
 
 [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode)  
 
