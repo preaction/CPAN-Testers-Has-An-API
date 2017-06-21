@@ -38,7 +38,8 @@ For full-screen, press `F`
 
 # I'm Doug
 
-<img src="http://preaction.me/images/avatar-small.jpg" style="display: inline-block; max-width: 100%"/>..
+<img src="http://preaction.me/images/avatar-small.jpg" style="display: inline-block; max-width: 100%"/>
+
 (Preaction)
 
 ---
@@ -63,7 +64,7 @@ For full-screen, press `F`
 
 ---
 
-# api.cpantesters.org
+## api.cpantesters.org
 
 ---
 
@@ -133,12 +134,12 @@ Pseudo-
 
 # Thanks
 
-Breno de Oliviera
+Breno de Oliviera  
 Joel Berger
 
 ---
 
-# Perl Toolchain Summit Sponsors
+# Perl Toolchain Summit
 
 ------
 
